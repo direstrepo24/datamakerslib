@@ -1,0 +1,8 @@
+/Users/torrefuertesas/dev/electro/datamakerslib/obj/Debug/netstandard2.0/datamakerslib.csproj.CoreCompileInputs.cache
+/Users/torrefuertesas/dev/electro/datamakerslib/obj/Debug/netstandard2.0/datamakerslib.AssemblyInfoInputs.cache
+/Users/torrefuertesas/dev/electro/datamakerslib/obj/Debug/netstandard2.0/datamakerslib.AssemblyInfo.cs
+/Users/torrefuertesas/dev/electro/datamakerslib/bin/Debug/netstandard2.0/datamakerslib.deps.json
+/Users/torrefuertesas/dev/electro/datamakerslib/bin/Debug/netstandard2.0/datamakerslib.dll
+/Users/torrefuertesas/dev/electro/datamakerslib/bin/Debug/netstandard2.0/datamakerslib.pdb
+/Users/torrefuertesas/dev/electro/datamakerslib/obj/Debug/netstandard2.0/datamakerslib.dll
+/Users/torrefuertesas/dev/electro/datamakerslib/obj/Debug/netstandard2.0/datamakerslib.pdb
